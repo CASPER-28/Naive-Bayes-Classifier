@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+networkx
+scikit-learn
+pgmpy
+pip install matplotlib
+matplotlib==3.5.2
