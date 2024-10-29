@@ -2,6 +2,7 @@
 This is a Streamlit-based web application for predicting whether to "PlayTennis" based on weather conditions using a Naive Bayes Classifier. 
 
 Features
+
 Dataset Exploration 📊: Display and explore the sample dataset with features like Outlook, Temperature, Humidity, and Wind.
 
 Interactive Prediction Interface 🔍: Select weather conditions to predict whether "PlayTennis" will be "Yes" or "No."
