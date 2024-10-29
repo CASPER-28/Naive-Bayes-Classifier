@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-networkx
-scikit-learn
-pgmpy
